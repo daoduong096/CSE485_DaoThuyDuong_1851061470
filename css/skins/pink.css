@@ -1,0 +1,25 @@
+.aside .logo a::before{
+    border-top: 4px solid #ec1839;
+    border-left: 4px solid #ec1839;
+}
+.aside .logo a::after{
+    border-bottom: 4px solid #ec1839;
+    border-right: 4px solid #ec1839;
+}
+.contact .contact-info-item .icon,
+.aside .nav li a:hover,
+.about .about-content .about-text h3 span{
+    color:#ec1839 ;
+}
+.btn,
+.aside .nav-toggler span,
+.about .about-content .timeline::before{
+
+    background-color: #ec1839;
+}
+.blog .blog-item-inner a,
+.about .about-content .skills .skills-item .progress .progress-in,
+.home .intro .social-links a,
+.section-title h2::before{
+    background-color: #ec1839;
+}
